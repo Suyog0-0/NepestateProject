@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title is here</title>
+<title>V0 Title</title>
 </head>
 <body>
 
