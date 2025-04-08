@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title is here</title>
+<title>Updated Title</title>
 </head>
 <body>
 
